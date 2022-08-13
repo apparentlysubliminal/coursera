@@ -16,9 +16,6 @@ h1 {
   font-size: 1.75em; /* 175% Font Size */
 }
 
-/*div {
-  border: 1px solid black;
-}*/
 
 div.menu-item-container {
   min-width: 100px;
@@ -28,18 +25,11 @@ div.menu-item-container {
   padding: 10px;
   text-align: right;
   position: relative;
-/*  background-color: green;*/
 }
 
 div.menu-item {
   border: 1px solid black; /* !!!!! 1px border */
   background-color: #908590;
-  /*width: 90%;*/
-  /*height: 200px;*/
-  /*margin: 10px 10px;*/
-/*  color: white;*/
-  /*position: relative;*/
-  /*text-align: right;*/
   padding: 0px;
   min-width: 200px;
   min-height: 230px;
@@ -72,12 +62,10 @@ div.sushi {
   background-color: burlywood;
 }
 
-
 p {
   text-align: left;
   padding: 10px;
 }
-
 
 
 /* Simple Responsive Framework. */
